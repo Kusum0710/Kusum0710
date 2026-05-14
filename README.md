@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kusum+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+Yearning%2C+Always+Learning+%F0%9F%94%A7" alt="Typing SVG" />
-
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Kusum0710?style=flat&color=6C63FF&labelColor=1a1a2e&label=Followers)](https://github.com/Kusum0710)
