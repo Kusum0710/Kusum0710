@@ -14,9 +14,9 @@
 
 I'm **Kusum**, a curious mind who wants to get her hands on everything
 
-- ☁️ Exploring **Cloud Engineering** and **Cybersecurity** practices
+- ☁️ Exploring **DevOps and Ai security** practices
 - 🐍 Writing code in **Python** & **JavaScript**
-- 🌱 Currently learning: Automation engineering
+- 🌱 Currently learning: 
 - 🔧 Building small projects to sharpen real-world skills
 - ⚡ Believer in *learning by doing*
 
